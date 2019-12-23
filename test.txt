@@ -1,0 +1,11 @@
+Begin Ashu_base pow_:
+
+Loop_pow_times:
+op=op*base;
+Endloop
+
+Loop_base_times:
+op=as-fd;
+Endloop
+
+End
